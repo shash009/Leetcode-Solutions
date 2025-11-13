@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0435-non-overlapping-intervals](https://github.com/shash009/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/shash009/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shash009/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0435-non-overlapping-intervals](https://github.com/shash009/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shash009/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0015-3sum) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shash009/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
