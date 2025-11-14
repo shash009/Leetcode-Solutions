@@ -112,13 +112,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
