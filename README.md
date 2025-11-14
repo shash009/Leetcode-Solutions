@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/shash009/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/shash009/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shash009/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -108,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/shash009/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
+## Tree
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
