@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shash009/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shash009/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/shash009/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/shash009/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shash009/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [2470-removing-stars-from-a-string](https://github.com/shash009/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shash009/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shash009/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shash009/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
