@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shash009/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2413-smallest-number-in-infinite-set](https://github.com/shash009/Leetcode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/shash009/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -125,24 +126,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
