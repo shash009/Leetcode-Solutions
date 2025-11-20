@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shash009/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/shash009/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/shash009/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shash009/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
