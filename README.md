@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/shash009/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shash009/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/shash009/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Backtracking
 |  |
 | ------- |
