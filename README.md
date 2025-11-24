@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shash009/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/shash009/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/shash009/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shash009/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shash009/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/shash009/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shash009/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/shash009/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/shash009/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shash009/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shash009/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/shash009/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/shash009/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
