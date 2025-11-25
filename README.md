@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/shash009/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/shash009/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/shash009/Leetcode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
+## Graph
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/shash009/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
