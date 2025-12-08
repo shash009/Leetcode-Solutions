@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shash009/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/shash009/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/shash009/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shash009/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/shash009/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/shash009/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -118,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/shash009/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/shash009/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shash009/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shash009/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shash009/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shash009/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Recursion
 |  |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shash009/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
