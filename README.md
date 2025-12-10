@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shash009/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/shash009/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/shash009/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shash009/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shash009/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/shash009/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shash009/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/shash009/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2625-increment-submatrices-by-one](https://github.com/shash009/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Simulation
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shash009/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0669-trim-a-binary-search-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0841-keys-and-rooms](https://github.com/shash009/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shash009/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/shash009/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -211,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shash009/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shash009/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
