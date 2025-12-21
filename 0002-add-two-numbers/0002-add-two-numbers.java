@@ -33,6 +33,5 @@ class Solution {
             temp = temp.next;
         }
         return l3.next;
-
     }
 }
