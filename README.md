@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shash009/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shash009/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/shash009/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0840-magic-squares-in-grid](https://github.com/shash009/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shash009/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shash009/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shash009/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0840-magic-squares-in-grid](https://github.com/shash009/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shash009/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2413-smallest-number-in-infinite-set](https://github.com/shash009/Leetcode-Solutions/tree/master/2413-smallest-number-in-infinite-set) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shash009/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0840-magic-squares-in-grid](https://github.com/shash009/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/shash009/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2625-increment-submatrices-by-one](https://github.com/shash009/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Simulation
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/shash009/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/shash009/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
+| [0840-magic-squares-in-grid](https://github.com/shash009/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shash009/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shash009/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Number Theory
