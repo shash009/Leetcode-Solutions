@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0066-plus-one](https://github.com/shash009/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shash009/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/shash009/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shash009/Leetcode-Solutions/tree/master/0200-number-of-islands) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/shash009/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/shash009/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/shash009/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0840-magic-squares-in-grid](https://github.com/shash009/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
