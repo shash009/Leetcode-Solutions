@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shash009/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/shash009/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/shash009/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/shash009/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
