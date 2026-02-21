@@ -1,6 +1,6 @@
 class Solution {
     public static void fillPrimesUpToMillion(HashSet<Integer> primes) {
-        int limit = 1000000;
+        int limit = 32;
         boolean[] isPrime = new boolean[limit + 1];
         for (int i = 2; i <= limit; i++) {
             isPrime[i] = true;
