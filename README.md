@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shash009/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/shash009/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/shash009/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shash009/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shash009/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/shash009/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shash009/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shash009/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/shash009/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shash009/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shash009/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shash009/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
