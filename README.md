@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shash009/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shash009/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/shash009/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0817-linked-list-components](https://github.com/shash009/Leetcode-Solutions/tree/master/0817-linked-list-components) |
 | [0840-magic-squares-in-grid](https://github.com/shash009/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shash009/Leetcode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1390-four-divisors](https://github.com/shash009/Leetcode-Solutions/tree/master/1390-four-divisors) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shash009/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shash009/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0817-linked-list-components](https://github.com/shash009/Leetcode-Solutions/tree/master/0817-linked-list-components) |
 | [0840-magic-squares-in-grid](https://github.com/shash009/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shash009/Leetcode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shash009/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/shash009/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0817-linked-list-components](https://github.com/shash009/Leetcode-Solutions/tree/master/0817-linked-list-components) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shash009/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shash009/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
