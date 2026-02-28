@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shash009/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2428-equal-row-and-column-pairs](https://github.com/shash009/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/shash009/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/shash009/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/shash009/Leetcode-Solutions/tree/master/1390-four-divisors) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shash009/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shash009/Leetcode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shash009/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Number Theory
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shash009/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shash009/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/shash009/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shash009/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
